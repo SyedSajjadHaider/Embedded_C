@@ -1,0 +1,9 @@
+Here i have provided few function implementation of Bitwise fucntion 
+
+Functions like
+
+Showbits - How show the number in binary
+countbits - count total number of bits in binary
+reverse_bit - Reverse a number's binary
+even_odd_test - check no is even or odd
+exact_pow2 - num is exact power of 2 ?
